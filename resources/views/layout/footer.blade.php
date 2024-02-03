@@ -53,12 +53,10 @@
                     <ul>
                         <li><i class="ri-arrow-right-s-line"></i> <a href="#">Anonymous</a></li>
                         <li><i class="ri-arrow-right-s-line"></i> <a href="#">Sentolop mamba</a></li>
-                        <li><i class="ri-arrow-right-s-line"></i> <a href="#">G*****I M***A S**I P***I</a>
-                        </li>
+                        <li><i class="ri-arrow-right-s-line"></i> <a href="#">G*****I M***A S**I P***I</a></li>
                         <li><i class="ri-arrow-right-s-line"></i> <a href="#">Anjay mabar kidz :v</a></li>
                     </ul>
                 </div>
-
             </div>
         </div>
     </div>
@@ -68,7 +66,7 @@
             &copy; Copyright <strong><span>VVIP MODS</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-            Designed by <a href="https://www.facebook.com/alvincheat/" target="_blank">pio_razorr</a>
+            Designed by <a href="#" target="_blank">Anonymous</a>
         </div>
     </div>
 </footer>

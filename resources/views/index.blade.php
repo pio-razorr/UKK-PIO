@@ -55,7 +55,7 @@
 @endsection
 
 @section('content')
-    <!-- ======= Features Section ======= -->
+    {{-- ======= Features Section ======= --}}
     <section id="features" class="features">
         <div class="container">
 
@@ -172,9 +172,9 @@
             </div>
         </div>
     </section>
-    <!-- End Features Section -->
+    {{-- End Features Section --}}
 
-    <!-- ======= List Cheat Section ======= -->
+    {{-- ======= List Cheat Section ======= --}}
     <section id="list-cheat" class="features">
         <div class="container">
 
@@ -285,9 +285,9 @@
             </div>
         </div>
     </section>
-    <!-- ======= End List Cheat Section ======= -->
+    {{-- ======= End List Cheat Section ======= --}}
 
-    <!-- ======= Gallery Section ======= -->
+    {{-- ======= Gallery Section ======= --}}
     <section id="gallery" class="gallery">
         <div class="container">
 
@@ -512,9 +512,9 @@
             </div>
         </div>
     </section>
-    <!-- End Gallery Section -->
+    {{-- End Gallery Section --}}
 
-    <!-- ======= Pricing Section ======= -->
+    {{-- ======= Pricing Section ======= --}}
     <section id="pricing" class="pricing">
         <div class="container">
 
@@ -995,10 +995,10 @@
             </div>
         </div>
     </section>
-    <!-- End Features Section -->
+    {{-- End Features Section --}}
 
 
-    <!-- ======= F.A.Q Section ======= -->
+    {{-- ======= F.A.Q Section ======= --}}
     <section id="faq" class="faq section-bg">
         <div class="container">
 
@@ -1117,5 +1117,5 @@
 
         </div>
     </section>
-    <!-- End F.A.Q Section -->
+    {{-- End F.A.Q Section --}}
 @endsection

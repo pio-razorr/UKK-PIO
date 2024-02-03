@@ -19,7 +19,7 @@
     <main id="main">
         @yield('content')
     </main>
-    {{-- End Main --> --}}
+    {{-- End Main --}}
 
     {{-- ======= Footer ======= --}}
     @include('layout.footer')
